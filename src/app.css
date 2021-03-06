@@ -1,0 +1,41 @@
+body {
+  font-family: 'Source Code Pro', monospace;
+  /* font-family: 'Share Tech Mono', monospace; */
+  /* font-family: 'Ubuntu Mono', monospace; */
+  /* font-family: 'Quantico', sans-serif; */
+
+  font-weight: 300;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  font-family: 'Source Code Pro', monospace;
+}
+
+.ui.menu {
+  font-family: 'Source Code Pro', monospace;
+}
+
+a {
+  text-decoration: none;
+  color: #108db8;
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+}
+
+.pageWrapper {
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  max-width: fit-content;
+  /* box-shadow: 0 0 10px 10px #ccc; */
+}
+
+.contentWrapper {
+  padding: 1rem;
+}
