@@ -10,7 +10,7 @@ body {
   padding: 0;
 }
 
-h1{
+h1 {
   font-family: 'Source Code Pro', monospace;
 }
 
@@ -26,6 +26,10 @@ a {
 
 img {
   max-width: 100%;
+}
+
+b {
+  font-weight: bold;
 }
 
 .pageWrapper {

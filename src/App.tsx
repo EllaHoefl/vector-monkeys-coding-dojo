@@ -20,7 +20,7 @@ class App extends React.Component {
       <Root>
         <div className="pageWrapper">
           <div ref={this.contextRef}>
-            <Sticky context={this.contextRef}>
+            <Sticky context={this.contextRef} topOffset={0}>
               <Menu secondary
                 style={{ paddingTop: '1em' }}
               >
